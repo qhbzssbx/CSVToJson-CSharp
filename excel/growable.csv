@@ -1,0 +1,7 @@
+﻿id,name,phaseNum,phaseCycle,phaseColor,res
+str,str,int,list|int,list|str,str
+id,名字,阶段数,各阶段时间,各阶段颜色,资源
+1001,植物1,2,5;10,#1014FF;#FA00FF,1001
+1002,植物2,2,10;15,#1014FF;#FA01FF,1002
+1003,植物3,2,5;20,#1014FF;#FA02FF,1003
+1004,植物4,2,10;25,#1014FF;#FA03FF,1004

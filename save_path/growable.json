@@ -1,0 +1,34 @@
+{
+	"1001" : {
+		"id" : "1001",
+		"name" : "植物1",
+		"phaseNum" : 2,
+		"phaseCycle" : [5,10],
+		"phaseColor" : ["#1014FF","#FA00FF"],
+		"res" : "1001"
+	},
+	"1002" : {
+		"id" : "1002",
+		"name" : "植物2",
+		"phaseNum" : 2,
+		"phaseCycle" : [10,15],
+		"phaseColor" : ["#1014FF","#FA01FF"],
+		"res" : "1002"
+	},
+	"1003" : {
+		"id" : "1003",
+		"name" : "植物3",
+		"phaseNum" : 2,
+		"phaseCycle" : [5,20],
+		"phaseColor" : ["#1014FF","#FA02FF"],
+		"res" : "1003"
+	},
+	"1004" : {
+		"id" : "1004",
+		"name" : "植物4",
+		"phaseNum" : 2,
+		"phaseCycle" : [10,25],
+		"phaseColor" : ["#1014FF","#FA03FF"],
+		"res" : "1004"
+	}
+}

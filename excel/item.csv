@@ -1,0 +1,5 @@
+﻿id,type,name,iconId,canStack,canDiscard
+str,int,str,str,bool,bool
+id,类型,名称,图标id,能否堆叠,能否丢弃
+10001,1,测试道具,10001,TRUE,FALSE
+10001,1,测试道具,10001,TRUE,FALSE
